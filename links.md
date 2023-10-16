@@ -1,0 +1,4 @@
+- [Репозиторий 1](https://github.com/username/repo1)
+- [Репозиторий 2](https://github.com/username/repo2)
+- [Демонстрационное приложение 1](https://example.com/app1)
+- [Демонстрационное приложение 2](https://example.com/app2)
